@@ -1,0 +1,15 @@
+main{border-color: black;
+border-style:double;
+border-width: thick;}
+h1{background-color: red;
+margin: 0;
+border-style: solid;
+border-color: green;
+text-align: center;
+font-family: 'Stalinist One', cursive;
+}
+h2{ background-color: gold;
+text-align: center;
+margin: 0;
+font-family: 'Creepster', cursive;}
+img{width: 100%}
